@@ -1,12 +1,11 @@
 navbar_entries:
-  - title: <img src="twenty1Bmini.png" alt="twentyone.world">
+  - title: <img src="jednadvacetBmini.png" alt="jednadvaCZet">
     url: https://twentyone.world/
   
   - title: 21 lekcí
     url: https://sifrant.github.io/21lekci
     
-  - title: <img src="jednadvacetBmini.png" alt="jednadvaCZet">
-    url: 
+  - title: >->->->->->->->->->-> 
     
   - title: Podpořit 🧡
     url: ./support
@@ -129,10 +128,10 @@ old_project_entries:
     url: https://braiins.com/category/publishing
     desc: Braiins - OGs miningu s publikační činností pro osvětu českých čtenářů 
 
-#  - title: Moonwalk
-#    url: https://github.com/abhinavs/moonwalk
-#    desc: A fast and minimalist Jekyll blog theme with clean dark mode
-#
+  - title: liberation.travel
+    url: https://liberation.travel
+    desc: Trochu jiná cestovka od @wilderko
+
 #  - title: Humangous
 #    url: https://www.humangous.co
 #    desc: The better people know you, the better they collaborate
