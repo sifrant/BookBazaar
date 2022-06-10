@@ -19,31 +19,31 @@ project_entries:
   - title: Drazí Bitcoineři
     url: ./posts/0739884-drazi-bitcoineri
     desc: 739884 / original 623774 @dergigi
-    highlight: ₿rand NEW
+#    highlight: ₿rand NEW
 
   - title: Bitcoin a meziplanetární hranice
     url: ./posts/0740195-btc-mezi-planety
     desc: 740195 / original Oct02/2018 @clarkmoody
-    highlight: ₿rand NEW
+#    highlight: ₿rand NEW
 
   - title: 21 lekcí z překladu 21 lekcí
     url: ₿rzy
     desc: 789101 / @nekonecnik
     highlight: ₿rzy
 
-  - title: Bitcoin Is Time 
+  - title: Bitcoin je čas 
     url: ₿rzy
-    desc: 789101 / original xxxxxx @dergigi
+    desc: 74xxxx / original 666053 @dergigi
     highlight: ₿rzy
 
   - title: Bitcoin Astronomy I /III
     url: ₿rzy
-    desc: 808808 original xxxxxx @dhruvbansal
+    desc: 75xxxx original Sep13/2019 @dhruvbansal
     highlight: ₿rzy
 
-  - title: Text 06 /21
+  - title: ??? 06 /21
     url: ₿rzy
-    desc: ???
+    desc: 76xxxx
     highlight: ₿ude
 
 #  - title: Project 7
