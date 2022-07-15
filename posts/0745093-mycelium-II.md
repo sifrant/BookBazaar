@@ -9,28 +9,15 @@ This is 🇨🇿 Czech translation of <a href="https://brandonquittem.com/bitcoi
 by <a href="https://twitter.com/Bquittem">Brandon Quittem</a> 
 <br>Translated @744260 by <a href="https://twitter.com/nekonecnik">@nekonecnik</a> 🧡
 
-# Bitcoin je myceliem peněz 2 /4
-<p style="text-align:center;"><img src="./pics/0744260-00-bitmushroom.png" alt="">
-<small>Image credit: John Upton</small></p>
 
-
-## Předmluva
-
-<big>Toto je DRUHÁ KAPITOLA za série bitcoin+houby. Mám více nepublikovaných materiálů, měl bych z toho udělat knihu? Dejte mi vědět 
-  na twitteru, moje DMs jsou otevřené. Chtěli byste také dostávat upozornění, když budu publikovat nové články? Zaregistrujte se zde.</big>
-  
-<big>Musím ocenit Dana Helda za vydání čtyřdílného seriálu, který přirovnává vznik bitcoinu k sázení stromu. I když se mi jeho 
-  seriál líbil, domnívám se, že robustnější analogií je přirovnání bitcoinu k houbám. Pokud jste v tomto tématu noví, připoutejte se - je mi 
-  ctí vás zasvětit do fascinujícího světa hub.</big>
-  
-*<b>Polymatická odpovědnost:</b> Jsem přesvědčen, že stejně jako Satoshi spojil jednotlivé obory, aby dal dohromady technologii, které 
-říkáme bitcoin, má i každý z nás zodpovědnost za zkoumání svých vlastních jedinečných přesahů znalostí. Zde je můj průzkum 
-hub a bitcoinu - paralely jsou ohromující.*
+# Bitcoin je myceliem peněz
 
 
 # Kapitola 2: Bitcoin jako sociální fenomén (houba - plodnice)
+*Zkoumání hype cyklů, etnomykologie a Satoshiho kultu*
 
-Zkoumání hype cyklů, etnomykologie a Satoshiho kultu
+<p style="text-align:center;"><img src="./pics/0745093-05x-Giblett.png" alt="">
+  <small>Original Artwork by <a href="http://www.richardgiblett.com.au/2dworks.html">Richard Giblett</a></small></p>
 
 V první části jsme zkoumali decentralizovanou architekturu bitcoinu z pohledu mycelia. Věnovali jsme se archetypu decentralizované sítě, antifragilitě, PoW, arbitráži, roli bitcoinu v jeho ekosystému a přednostem decentralizace.
 
@@ -48,7 +35,8 @@ Ponořme se do toho!
 Bitcoin se skládá z jednotlivých účastníků, z nichž každý má vlastní pohled na věc, motivace a schopnosti. Společně vytvářejí konsensus na pravidlech bitcoinové hry. Kód tuto společenskou shodu pouze ratifikuje.
 
 Z Hasuova zásadního článku Unpacking Bitcoin's Social Contract:
-> "Bitcoinový protokol automatizuje smlouvu odshouhlasenou na sociální vrstvě, zatímco sociální vrstva určuje pravidla bitcoinu na základě konsensu jeho uživatelů. Jsou v symbióze: jedno bez druhého by nepostačovalo."
+> "Bitcoinový protokol automatizuje smlouvu odshouhlasenou na sociální vrstvě, zatímco sociální vrstva určuje pravidla bitcoinu na základě 
+> konsensu jeho uživatelů. Jsou v symbióze: jedno bez druhého by nepostačovalo."
 
 Lidé jsou chaotické, emocionální a předvídatelně iracionální bytosti. Bitcoin, který je tvořen sítí lidí, není jiný.
 
