@@ -17,7 +17,22 @@ navbar_entries:
 
 
 project_entries:
-  - title: Bitcoin je myceliem peněz 2 /4
+#  - title: Bitcoin je myceliem peněz 3 /4
+#    url: ./posts/0746xxx-mycelium-III
+#    desc: 746xxx / original @bquittem
+#    highlight: -NEW-
+
+#  - title: Bitcoin je myceliem peněz 4 /4
+#    url: ./posts/0747xxx-mycelium-IV
+#    desc: 747xxx / original @bquittem
+#    highlight: -NEW-
+    
+#  - title: Bitcoin je myceliem peněz
+#    url: ./posts/0747474-mycelium-komplet
+#    desc: 747474 / original @bquittem
+#    highlight: -NEW-
+
+- title: Bitcoin je myceliem peněz 2 /4
     url: ./posts/0745093-mycelium-II
     desc: 745093 / original @bquittem
     highlight: -NEW-
@@ -58,7 +73,22 @@ project_entries:
 
   - title: Bitcoin Astronomy I /III
     url: ./ticktock
-    desc: 777777 / original Sep13/2019 @dhruvbansal
+    desc: 757575 / original Sep13/2019 @dhruvbansal
+    highlight: ₿rzy
+
+#  - title: Bitcoin Astronomy II /III
+#    url: ./ticktock
+#    desc: 767676 / original Mar08/2021 @dhruvbansal
+#    highlight: ₿rzy
+
+#  - title: Bitcoin Astronomy III /III
+#    url: ./ticktock
+#    desc: 770077 / original Sep13/2019 @dhruvbansal
+#    highlight: ₿rzy
+
+#  - title: Bitcoin Astronomy
+#    url: ./ticktock
+#    desc: 777777 / original 2019-2021 @dhruvbansal
 #    highlight: ₿rzy
 
 #  - title: ???
