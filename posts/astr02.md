@@ -125,19 +125,19 @@ Celý vesmír lze zkomprimovat pomocí logaritmického měřítka do jediného o
 <div class="slideshow-container">
 
 <div class="mySlides fade">
-  <div class="numbertext">1 / 3</div>
+<!--  <div class="numbertext">1 / 3</div>-->
   <img src="./pics/astr02-09a-Universe-Type-I.jpg" style="width:100%">
   <div class="text">Blockchainy typu I mají horizont hashování v planetárním měřítku a dobu bloku několik málo minut. Bitcoin a Muskcoin jsou zvýrazněny, ale blockchainy typu I mohou hostovat i jiné planety nebo kolonie v naší (nebo jiné!) sluneční soustavě.</div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">2 / 3</div>
+<!--  <div class="numbertext">2 / 3</div>-->
   <img src="./pics/astr02-09b-Universe-Type-II.jpg" style="width:100%">
   <div class="text">Blockchainy typu II mají horizont hashování v solárním měřítku a dobu bloku v délce mnoha dnů. Solcoin obklopuje naše Slunce a obsahuje celou sluneční soustavu. Další hvězdy naší Mléčné dráhy mohou hostovat své vlastní blockchainy typu II.</div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">3 / 3</div>
+<!--  <div class="numbertext">3 / 3</div>-->
   <img src="./pics/astr02-09c-Universe-Type-III.jpg" style="width:100%">
   <div class="text">Blockchainy typu III mají horizont hashování v galaktickém měřítku a dobu bloku v milionech roků. Blockchainy typu III jsou zvýrazněny kolem naší Mléčné dráhy a okolních galaxií naší galaktické kupy, jako jsou Andromeda nebo Triangulum. Galaxie v dalších kupách mohou také hostovat blockchainy typu III (nezobrazeno).</div>
 </div>
