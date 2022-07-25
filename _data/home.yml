@@ -76,15 +76,15 @@ project_entries:
 #    desc: 765432 / original @allenf32
 #    highlight: -₿rzy-
 
-#  - title: 21 lekcí z překladu 21 lekcí
-#    url: ./ticktock
-#    desc: 765432 / @nekonecnik
-#    highlight: -₿rzy-
+  - title: 21 lekcí z překladu 21 lekcí
+    url: ./ticktock
+    desc: 753197 / @nekonecnik
+    highlight: -₿rzy-
 
-#  - title: Bitcoin Astronomy I /III
-#    url: ./ticktock
-#    desc: 757575 / original Sep13/2019 @dhruvbansal
-#    highlight: ₿rzy
+  - title: Bitcoin Astronomy I /III
+    url: ./ticktock
+    desc: 757575 / original Sep13/2019 @dhruvbansal
+    highlight: ₿rzy
 
 #  - title: Bitcoin Astronomy II /III
 #    url: ./ticktock
