@@ -118,7 +118,7 @@ Představme si jadernou elektrárnu, která v místě integruje těžbu bitcoinu
 
 Jak lidstvo poroste z civilizace typu II na civilizaci typu III, bude se tento cyklus opakovat v ještě větším a závratnějším měřítku.
 
-Celý vesmír lze zkomprimovat pomocí logaritmického měřítka do jediného obrázku. To nám umožňuje vizualizovat blockchainy typu I, II a III naráz.
+Celý vesmír lze zkomprimovat pomocí logaritmického měřítka do jediného obrázku. To nám umožňuje vizualizovat blockchainy typu I, II a III naráz:
 
 <body>
 
