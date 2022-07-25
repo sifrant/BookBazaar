@@ -120,7 +120,6 @@ Jak lidstvo poroste z civilizace typu II na civilizaci typu III, bude se tento c
 
 Celý vesmír lze zkomprimovat pomocí logaritmického měřítka do jediného obrázku. To nám umožňuje vizualizovat blockchainy typu I, II a III naráz:
 
-<body>
 
 <div class="slideshow-container">
 
@@ -182,8 +181,6 @@ function showSlides(n) {
   dots[slideIndex-1].className += " active";
 }
 </script>
-
-</body>
 
 
 > <b>Velké řetězce mají v rámci svých hash horizontů malé řetězce, 
