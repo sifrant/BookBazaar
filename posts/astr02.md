@@ -1,3 +1,10 @@
+<header>
+{% if site.theme_config.show_navbar == true %}
+  {% include horizontal_list.html collection=site.data.home.navbar_entries %}
+  <div class="dashed"></div>
+{% endif %}
+</header>
+
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
@@ -94,13 +101,6 @@ img {vertical-align: middle;}
 </style>
 </head>
 
-<header>
-{% if site.theme_config.show_navbar == true %}
-  {% include horizontal_list.html collection=site.data.home.navbar_entries %}
-  <div class="dashed"></div>
-{% endif %}
-</header>
-
 This is 🇨🇿 Czech translation of <a href="https://bitcoinmagazine.com/business/bitcoin-mining-at-nuclear-power-plants">this article</a> 
 by <a href="https://twitter.com/purugyl">Puru Goyal</a> & Tina Torres, published on Jul12/2022 
 <a href="https://twitter.com/BitcoinMagazine">@BitcoinMagazine</a> / Translated with 🧡 @745935 by <a href="https://twitter.com/nekonecnik">@nekonecnik</a> 
@@ -127,19 +127,19 @@ Celý vesmír lze zkomprimovat pomocí logaritmického měřítka do jediného o
 <div class="mySlides fade">
   <div class="numbertext">1 / 3</div>
   <img src="./pics/astr02-09a-Universe-Type-I.jpg" style="width:100%">
-  <div class="text">Caption Text</div>
+  <div class="text">Blockchainy typu I mají horizont hashování v planetárním měřítku a dobu bloku několik málo minut. Bitcoin a Muskcoin jsou zvýrazněny, ale blockchainy typu I mohou hostovat i jiné planety nebo kolonie v naší (nebo jiné!) sluneční soustavě.</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">2 / 3</div>
-  <img src="astr02-09b-Universe-Type-II.jpg" style="width:100%">
-  <div class="text">Caption Two</div>
+  <img src="./pics/astr02-09b-Universe-Type-II.jpg" style="width:100%">
+  <div class="text">Blockchainy typu II mají horizont hashování v solárním měřítku a dobu bloku v délce mnoha dnů. Solcoin obklopuje naše Slunce a obsahuje celou sluneční soustavu. Další hvězdy naší Mléčné dráhy mohou hostovat své vlastní blockchainy typu II.</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">3 / 3</div>
-  <img src="astr02-09c-Universe-Type-III.jpg" style="width:100%">
-  <div class="text">Caption Three</div>
+  <img src="./pics/astr02-09c-Universe-Type-III.jpg" style="width:100%">
+  <div class="text">Blockchainy typu III mají horizont hashování v galaktickém měřítku a dobu bloku v milionech roků. Blockchainy typu III jsou zvýrazněny kolem naší Mléčné dráhy a okolních galaxií naší galaktické kupy, jako jsou Andromeda nebo Triangulum. Galaxie v dalších kupách mohou také hostovat blockchainy typu III (nezobrazeno).</div>
 </div>
 
 <a class="prev" onclick="plusSlides(-1)">❮</a>
