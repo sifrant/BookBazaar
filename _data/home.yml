@@ -6,7 +6,7 @@ navbar_entries:
            textů o bitcoinu
     url: https://sifrant.github.io/jednadvacet
       
-  - title: 21 lekcí 🕳️ 
+  - title: 21 lekcí 🕳️ 🐰
     url: https://sifrant.github.io/21lekci
  
   - title: Podpořit 🧡
@@ -17,20 +17,15 @@ navbar_entries:
 
 
 project_entries:
-#  - title: Bitcoin je myceliem peněz 4 /4
-#    url: ./posts/0747xxx-mycelium-IV
-#    desc: 747xxx / original @bquittem
-#    highlight: -NEW-
+  - title: Bitcoin je myceliem peněz 4 /4
+    url: ./posts/0747xxx-mycelium-IV
+    desc: 747474 / original @bquittem
+    highlight: -NEW-
     
 #  - title: Bitcoin je myceliem peněz
 #    url: ./posts/0747474-mycelium-komplet
-#    desc: 747474 / original @bquittem
+#    desc: 747747 / original @bquittem
 #    highlight: -NEW-
-
-  - title: Bitcoin je myceliem peněz 3 /4
-    url: ./posts/0746280-mycelium-III
-    desc: 746280 / original @bquittem
-    highlight: -NEW-
 
   - title: Bitcoin a energie jádra "zdarma"
     url: ./posts/0745935-nuclear-btc
@@ -42,14 +37,9 @@ project_entries:
     desc: 739884 / original 623774 @dergigi
 #    highlight: ₿rand NEW
 
-  - title: Bitcoin je myceliem peněz 2 /4
-    url: ./posts/0745093-mycelium-II
-    desc: 745093 / original @bquittem
-#    highlight: 
-
-  - title: Bitcoin je myceliem peněz 1 /4
-    url: ./posts/0744260-mycelium-I
-    desc: 744260 / original @bquittem
+  - title: Bitcoin je myceliem peněz 3 /4
+    url: ./posts/0746280-mycelium-III
+    desc: 746280 / original @bquittem
 #    highlight: -NEW-
 
   - title: Bitcoin je čas 
@@ -57,10 +47,20 @@ project_entries:
     desc: 740913 / original 666053 @dergigi
 #    highlight: -NEW-
 
+  - title: Bitcoin je myceliem peněz 2 /4
+    url: ./posts/0745093-mycelium-II
+    desc: 745093 / original @bquittem
+#    highlight: 
+
   - title: Bitcoin a meziplanetární hranice
     url: ./posts/0740195-btc-mezi-planety
     desc: 740195 / original Oct02/2018 @clarkmoody
 #    highlight: ₿rand NEW
+
+  - title: Bitcoin je myceliem peněz 1 /4
+    url: ./posts/0744260-mycelium-I
+    desc: 744260 / original @bquittem
+#    highlight: -NEW-
 
   - title: OTEC a bitcoin
     url: ./posts/0741540-OTEC-bitcoin
