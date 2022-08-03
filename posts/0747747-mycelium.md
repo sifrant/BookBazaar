@@ -7,7 +7,7 @@
 
 This is 🇨🇿 Czech translation of <a href="https://brandonquittem.com/bitcoin-is-the-mycelium-of-money/">this article</a> 
 by <a href="https://twitter.com/Bquittem">Brandon Quittem</a> 
-<br>Translated @744260 by <a href="https://twitter.com/nekonecnik">@nekonecnik</a> 🧡
+<br>Translated @747747 by <a href="https://twitter.com/nekonecnik">@nekonecnik</a> 🧡
 
 # Bitcoin je myceliem peněz
 <p style="text-align:center;"><img src="./pics/0744260-00-bitmushroom.png" alt=""></p>
@@ -15,12 +15,9 @@ by <a href="https://twitter.com/Bquittem">Brandon Quittem</a>
 
 ## Předmluva
 
-Toto je celá (čtyřdílná) série bitcoin+houby spojená do jednoho článku. Mám více nepublikovaných materiálů, měl bych z toho udělat knihu? Dejte mi vědět 
-  na <a href="https://twitter.com/Bquittem">twitteru</a>, moje DMs jsou otevřené. Chtěli byste také dostávat upozornění, když budu publikovat nové články? <a href="https://marvelous-innovator-6728.ck.page/32ea4dd043">Zaregistrujte se zde</a>.
-  
-Musím ocenit Dana Helda za vydání čtyřdílného seriálu, který přirovnává vznik bitcoinu k sázení stromu. I když se mi jeho 
-  seriál líbil, domnívám se, že robustnější analogií je přirovnání bitcoinu k houbám. Pokud jste v tomto tématu noví, připoutejte se - je mi 
-  ctí vás zasvětit do fascinujícího světa hub.
+Toto je celá (čtyřdílná) série bitcoin+houby spojená do jednoho článku. 
+
+Musím ocenit Dana Helda za vydání čtyřdílného seriálu, který přirovnává vznik bitcoinu k sázení stromu. I když se mi jeho seriál líbil, domnívám se, že robustnější analogií je přirovnání bitcoinu k houbám. Pokud jste v tomto tématu noví, připoutejte se - je mi ctí vás zasvětit do fascinujícího světa hub.
   
 *<b>Polymatická odpovědnost:</b> Jsem přesvědčen, že stejně jako Satoshi spojil jednotlivé obory, aby dal dohromady technologii, které 
 říkáme bitcoin, má i každý z nás zodpovědnost za zkoumání svých vlastních jedinečných přesahů znalostí. Zde je můj průzkum 
@@ -978,7 +975,7 @@ aby vytvořil nové fenotypy (inovující vlastnosti) a využil tak nové mezery
 Jinými slovy, bitcoin přináší nové finanční způsoby použití, které dříve nebyly možné. Tím se zvětšuje ekonomický koláč, a vytváří se tak 
 společenské bohatství.
 
-Novinky přinesené bitcoinem:
+Novinky, které přinesl bitcoin:
 
 - První a jediná implementace absolutní vzácnosti (těžko přehánět)<br>
 - Globální, téměř okamžitý, apolitický systém vypořádání plateb<br>
@@ -1308,6 +1305,7 @@ obrázek od FritsAhlefeldt.com
 <br>Původní článek: <a href="https://brandonquittem.com/bitcoin-is-the-mycelium-of-money/">Bitcoin is The Mycelium of Money</a>
 <br>Přeložil:</big> ⚡ <a href="lightning:nekonecnik@stacker.news">nekonecnik@stacker.news</a> 🔗 Samourai 
 PayNym 🤖 <a href="https://paynym.is/+muddydarkness33F">+muddydarkness33F</a>
+<br>P.S.: Ten bodlín se v originále jmenuje Tenrec, tudíž říkat mu bodlín Terenc, nevyžadovalo přespříliš mentálního úsilí (:
 
 {% if site.theme_config.show_footer == true %}
   <footer>
