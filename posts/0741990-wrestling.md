@@ -6,8 +6,7 @@
 </header>
 
 This is 🇨🇿 Czech translation of <a href="https://bitcoinmagazine.com/culture/bitcoin-and-the-truth-of-mixed-martial-arts">this article</a> 
-by @allenf32 originally published on Mar28/2022 by  
-<br>Translated @741990 by <a href="https://twitter.com/nekonecnik">@nekonecnik</a> 🧡
+by @allenf32 originally published on Mar28/2022 <a href="https://twitter.com/BitcoinMagazine">@BitcoinMagazine</a> / Translated @741990 by <a href="https://twitter.com/nekonecnik">@nekonecnik</a> 🧡
 
 # Bitcoin jsou Benátky: Zápas s pravdou
 Jakkoli to může být překvapivé, historie bitcoinu reflektuje historii smíšených bojových umění.
