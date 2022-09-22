@@ -5,9 +5,8 @@
 {% endif %}
 </header>
 
-This is 🇨🇿 Czech translation of <a href="https://brandonquittem.com/bitcoin-is-the-mycelium-of-money/">this article</a> 
-by <a href="https://twitter.com/Bquittem">Brandon Quittem</a> 
-<br>Translated @744260 by <a href="https://twitter.com/nekonecnik">@nekonecnik</a> 🧡
+This is 🇨🇿 Czech translation of 1st part of <a href="https://brandonquittem.com/bitcoin-is-the-mycelium-of-money/">this article</a> 
+by <a href="https://twitter.com/Bquittem">Brandon Quittem</a> originally published on Dec11/2018 / Translated @744260 by <a href="https://twitter.com/nekonecnik">@nekonecnik</a> 🧡
 
 # Bitcoin je myceliem peněz 1 /4
 <p style="text-align:center;"><img src="./pics/0744260-00-bitmushroom.png" alt=""></p>
