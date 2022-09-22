@@ -6,7 +6,7 @@
 </header>
 
 This is 🇨🇿 Czech translation of <a href="https://brandonquittem.com/bitcoin-is-the-mycelium-of-money/">this article</a> 
-by <a href="https://twitter.com/Bquittem">Brandon Quittem</a> 
+by <a href="https://twitter.com/Bquittem">Brandon Quittem</a> originally published on Dec11/2018
 <br>Translated @747747 by <a href="https://twitter.com/nekonecnik">@nekonecnik</a> 🧡
 
 # Bitcoin je myceliem peněz
