@@ -7,21 +7,18 @@
 </header>
 
 
-Vítejte! (: Přeložil jsem do češtiny <a href="https://sifrant.github.io/21lekci/">21 lekcí</a> 
-od <a href="https://dergigi.com/">Gigiho</a>. Následně ten překlad vyšel (ve vyladěné verzi) u 
-<a href="https://braiins.com/category/publishing">Braiins Publishing</a> v tištěné podobě! 
-Tím však nic neskončilo, ba právě naopak. Pracuji na dalších knihách a píšu na
-<a href="https://bitperia.cz/">Bitperia.cz</a>. 👀 Na této stránce nabízí přehled většiny mých prací - 
+Vítejte! (: Pracuji na překladu knih pro <a href="https://braiins.com/category/publishing">Braiins Publishing</a> 
+a píšu na <a href="https://bitperia.cz/">Bitperia.cz</a>. 👀 Na této stránce nabízím přehled většiny mých prací - 
 primárně kvalitních, podnětných a povětšinou dlouhých textů o Bitcoinu přeložených kompletně do češtiny. 
 Postupně však budou přibývat i mé vlastní výtvory...
 
 ### Value For Value 🧡
 
-je koncept podpory tvůrce od publika na základě čistě dobrovolných libovolných příspěvků v rámci poděkování 
-za poskytnutí hodnoty. Překlad dlouhých, technicky specifických textů je časově náročný a psaní vlastních článků
-zase vyžaduje vedle samotného tvůrčího procesu spoustu studia a rešerší. <b>Pokud vám moje tvorba přináší hodnotu, 
-oceňte to, prosím, dle svého uvážení a možností. Jakákoli podpora je povznášejícím impulsem k další činnosti. 
-Svou náklonnost můžete projevit zasláním ₿ satů na
+je koncept podpory tvůrce od publika na základě čistě dobrovolných příspěvků v rámci poděkování za poskytnutí 
+hodnoty. Překlad dlouhých, technicky specifických textů je časově náročný a psaní vlastních článků zase vyžaduje 
+vedle samotného tvůrčího procesu spoustu studia a rešerší.<br>
+Pokud vám moje tvorba přináší hodnotu, oceňte to, prosím, dle svého uvážení a možností. Jakákoli podpora je 
+povznášejícím impulsem k další činnosti. Svou náklonnost můžete projevit zasláním ₿ satů na
 
 > <img src="tweetoshiMini.png" alt="Tweetoshi" align="left" style="float:left">
   <big><a href="https://twitter.com/TweetoshiApp"> Tweetoshi</a> - twitter 
