@@ -17,10 +17,10 @@ navbar_entries:
 
 
 project_entries:
-  - title: Vesmír chce jedny peníze
-    url: https://www.bitperia.cz/clanky/vesmir-chce-jedny-penize.html
-    desc: 753451 / original Jun28/2013 Oleg Andreev
-    highlight: -NEW-
+  - title: Robert Ruark - Medojedky
+    url: https://www.databazeknih.cz/knihy/medojedky-1429
+    desc: 42 Kč v satech
+#    highlight: -NEW-
     
   - title: Drazí Bitcoineři
     url: https://www.bitperia.cz/clanky/drazi-bitcoineri.html
